@@ -10,7 +10,7 @@ This document is intended for use by attendees of the Cisco Live 2023 who are ta
 .. _prerequisites:
 
 Prerequisites
-=============
+-------------
 
 - Prerequisite 1
 - Prerequisite 2
@@ -20,7 +20,7 @@ Prerequisites
 .. _objetives:
 
 Learning Objectives
-===================
+-------------------
 
 During this lab, you will get 
 
