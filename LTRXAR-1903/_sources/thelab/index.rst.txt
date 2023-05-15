@@ -7,12 +7,17 @@ Bonus - The Lab!
 
 This document is intended for use by attendees of the Cisco Live 2023 who are taking LTRXAR-1903 - Implementing and Troubleshooting ThousandEyes
 
+.. _prerequisites:
+
 Prerequisites
 =============
 
 - Prerequisite 1
 - Prerequisite 2
 - Prerequisite 3
+
+
+.. _objetives:
 
 Learning Objectives
 ===================
