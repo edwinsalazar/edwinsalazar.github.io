@@ -10,7 +10,7 @@ LTRXAR-1903 - Implementing and Troubleshooting ThousandEyes
 
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
    :caption: Table of Contents:
 
    thelab/index
