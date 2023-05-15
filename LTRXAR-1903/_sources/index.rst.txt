@@ -3,15 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 Welcome to LTRXAR-1903 Implementing and Troubleshooting ThousandEyes
-======================================================================
+====================================================================
 
 .. image:: images/LTRXAR-1903.png
    :align: center
 
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+
 
 
 Indices and tables
