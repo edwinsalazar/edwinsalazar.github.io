@@ -1,0 +1,52 @@
+pipeline {
+    environment {
+        GIT_CREDS = credentials('cxpm-cc.gen')
+    }
+
+    agent { label 'AMER-REGION && !amer-sio-slv10 && !amer-sio-slv08 && !amer-sio-slv01' }
+    stages {
+        stage('Test') {
+            parallel {
+                stage('Test Documentation') {
+                    agent {
+                        docker {
+                            image 'containers.cisco.com/aide/sphinx-tools'
+                            alwaysPull true
+                            reuseNode true
+                        }
+                    }
+                    steps {
+                        sh '''
+                            make html
+                        '''
+                    }
+                }
+            }
+        }
+        stage('Publish') {
+            parallel {
+                stage('Publish Docs') {
+                    when {
+                        branch 'master'
+                        beforeAgent true
+                    }
+                    agent {
+                        docker {
+                            args '-u root:sudo'
+                            image 'containers.cisco.com/aide/sphinx-tools'
+                            alwaysPull true
+                            reuseNode true
+                        }
+                    }
+                    steps {
+                        sh '''
+                            make html
+                            gh-pages -r $GIT_URL -t --dist build/html
+                            chown -R 50006269:25 ${WORKSPACE}
+                        '''
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,16 @@
+POD Number,Public Store Link,Windows VM FQDN (Azure),AppDynamics Application
+POD-1,`http://nopcommerce-web-1.eastus.cloudapp.azure.com <http://nopcommerce-web-1.eastus.cloudapp.azure.com>`_,nopcommerce-web-1.eastus.cloudapp.azure.com,nopCommerce-1
+POD-2,`http://nopcommerce-web-2.eastus.cloudapp.azure.com <http://nopcommerce-web-2.eastus.cloudapp.azure.com>`_,nopcommerce-web-2.eastus.cloudapp.azure.com,nopCommerce-2
+POD-3,`http://nopcommerce-web-3.eastus.cloudapp.azure.com <http://nopcommerce-web-3.eastus.cloudapp.azure.com>`_,nopcommerce-web-3.eastus.cloudapp.azure.com,nopCommerce-3
+POD-4,`http://nopcommerce-web-4.eastus.cloudapp.azure.com <http://nopcommerce-web-4.eastus.cloudapp.azure.com>`_,nopcommerce-web-4.eastus.cloudapp.azure.com,nopCommerce-4
+POD-5,`http://nopcommerce-web-5.eastus.cloudapp.azure.com <http://nopcommerce-web-5.eastus.cloudapp.azure.com>`_,nopcommerce-web-5.eastus.cloudapp.azure.com,nopCommerce-5
+POD-6,`http://nopcommerce-web-6.eastus.cloudapp.azure.com <http://nopcommerce-web-6.eastus.cloudapp.azure.com>`_,nopcommerce-web-6.eastus.cloudapp.azure.com,nopCommerce-6
+POD-7,`http://nopcommerce-web-7.eastus.cloudapp.azure.com <http://nopcommerce-web-7.eastus.cloudapp.azure.com>`_,nopcommerce-web-7.eastus.cloudapp.azure.com,nopCommerce-7
+POD-8,`http://nopcommerce-web-8.eastus.cloudapp.azure.com <http://nopcommerce-web-8.eastus.cloudapp.azure.com>`_,nopcommerce-web-8.eastus.cloudapp.azure.com,nopCommerce-8
+POD-9,`http://nopcommerce-web-9.eastus.cloudapp.azure.com <http://nopcommerce-web-9.eastus.cloudapp.azure.com>`_,nopcommerce-web-9.eastus.cloudapp.azure.com,nopCommerce-9
+POD-10,`http://nopcommerce-web-10.eastus.cloudapp.azure.com <http://nopcommerce-web-10.eastus.cloudapp.azure.com>`_,nopcommerce-web-10.eastus.cloudapp.azure.com,nopCommerce-10
+POD-11,`http://nopcommerce-web-11.eastus.cloudapp.azure.com <http://nopcommerce-web-11.eastus.cloudapp.azure.com>`_,nopcommerce-web-11.eastus.cloudapp.azure.com,nopCommerce-11
+POD-12,`http://nopcommerce-web-12.eastus.cloudapp.azure.com <http://nopcommerce-web-12.eastus.cloudapp.azure.com>`_,nopcommerce-web-12.eastus.cloudapp.azure.com,nopCommerce-12
+POD-13,`http://nopcommerce-web-13.eastus.cloudapp.azure.com <http://nopcommerce-web-13.eastus.cloudapp.azure.com>`_,nopcommerce-web-13.eastus.cloudapp.azure.com,nopCommerce-13
+POD-14,`http://nopcommerce-web-14.eastus.cloudapp.azure.com <http://nopcommerce-web-14.eastus.cloudapp.azure.com>`_,nopcommerce-web-14.eastus.cloudapp.azure.com,nopCommerce-14
+POD-15,`http://nopcommerce-web-15.eastus.cloudapp.azure.com <http://nopcommerce-web-15.eastus.cloudapp.azure.com>`_,nopcommerce-web-15.eastus.cloudapp.azure.com,nopCommerce-15
