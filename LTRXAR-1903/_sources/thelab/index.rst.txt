@@ -10,10 +10,12 @@ Go to `Cisco Digital Learning Library <https://ciscolivecyberops.certsite.net/>`
 .. image:: images/the-lab-login-1.png
     :align: center
 
-
 PODs
 ----
-Log in with the POD credentials assigned.
+``Login`` with the POD credentials assigned.
+
+.. image:: images/the-lab-login-2.png
+    :align: center
 
 .. csv-table::
    :file: tables/pods.csv
