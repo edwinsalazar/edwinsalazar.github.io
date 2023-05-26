@@ -10,8 +10,12 @@ Go to `Cisco Digital Learning Library <https://ciscolivecyberops.certsite.net/>`
 .. image:: images/the-lab-login-1.png
     :align: center
 
-PODs
-----
+.. tip:: 
+    Lab open all week! 
+    Ask any questions on the “LTRXAR-1903: Implementing and Troubleshooting ThousandEyes” Webex room
+
+Credentials
+-----------
 ``Login`` with the POD credentials assigned.
 
 .. image:: images/the-lab-login-2.png
@@ -21,7 +25,6 @@ PODs
    :file: tables/pods.csv
    :width: 80%
    :header-rows: 1
-
 
 Prerequisites
 -------------
