@@ -1,0 +1,27 @@
+####################
+The Lab! - Launching
+####################
+
+.. tip::
+   The estimated time to Spin Up each Lab is  **5 Minutes**.
+
+#. Lab - Select
+===============
+Select the **Lab** you wan to spin-up and ``Launch``.
+
+.. image:: images/the-lab-spinup-1.png
+    :align: center
+
+#. Lab - Reserve
+================
+``Reserve a Lab`` and ``Spin-Up this Lab!``.
+
+.. image:: images/the-lab-spinup-2.png
+    :align: center
+
+#. Lab - Wait
+================
+**Wait 5 - 10 minutes for the lab to spin-up**, and **Link to lab environment**
+
+.. image:: images/the-lab-spinup-3.png
+    :align: center
