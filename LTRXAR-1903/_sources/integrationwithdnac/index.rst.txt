@@ -1,8 +1,8 @@
 ####################################
-Bonus - Integrations with Cisco DNAC
+Bonus - Integration with Cisco DNAC
 ####################################
 
-This document is intended for use by attendees of the Cisco Live 2023 who are taking LTRXAR-1903 - Implementing and Troubleshooting ThousandEyes
+This document is intended for use by attendees of the Cisco Live 2023
 
 Prerequisites
 -------------
