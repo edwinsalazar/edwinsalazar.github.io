@@ -2,21 +2,57 @@
 Bonus - Dashboards Analysis
 ###########################
 
-This document is intended for use by attendees of the Cisco Live 2023 who are taking LTRXAR-1903 - Implementing and Troubleshooting ThousandEyes
+In this Bonus section we will review and discuss about ThousandEyes Snapshots 
 
-Prerequisites
--------------
+Webex RTP Stream
+----------------
+Go to `Webex RTP Stream <https://aimdhehwxr.share.thousandeyes.com/>`__ 
 
-- Prerequisite 1
-- Prerequisite 2
-- Prerequisite 3
+.. image:: images/snapshot-1.png
+    :align: center
 
-Learning Objectives
--------------------
+Office 365 Performance Blips
+----------------------------
+Go to `Office 365 Performance Blips	<https://wvgru.share.thousandeyes.com/>`__ 
 
-During this lab, you will get 
+.. image:: images/snapshot-2.png
+    :align: center
 
+Poor Wi-Fi Performance Disrupts User Experience
+------------------------------------------------
 
+Go to `Poor Wi-Fi Performance Disrupts User Experience <https://tspng.share.thousandeyes.com/>`__ 
 
+.. image:: images/snapshot-3.png
+    :align: center
 
+Low Throughput 
+--------------
 
+Go to `Low Throughput <https://ogwpi.share.thousandeyes.com/>`__ 
+
+.. image:: images/snapshot-4.png
+    :align: center
+
+Microsoft Teams Chat 
+--------------------
+
+Go to `Microsoft Teams Chat <https://eltlvb.share.thousandeyes.com/>`__ 
+
+.. image:: images/snapshot-5.png
+    :align: center
+
+Microsoft Teams Edge Node Unavailable 
+-------------------------------------
+Go to `Microsoft Teams Edge Node Unavailable <https://dbgpposm.share.thousandeyes.com/>`__ 
+
+.. image:: images/snapshot-6.png
+    :align: center
+
+Zoom Cloud
+----------
+
+Go to `Zoom Cloud <https://aozefzcoho.share.thousandeyes.com/>`__ 
+
+.. image:: images/snapshot-7.png
+    :align: center
