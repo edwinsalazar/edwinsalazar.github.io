@@ -19,7 +19,7 @@ Go to `Cisco Digital Learning Library <https://ciscolivecyberops.certsite.net/>`
 
 Credentials
 -----------
-**Login** with the POD credentials assigned.
+``Login`` with the POD credentials assigned.
 
 .. image:: images/the-lab-login-2.png
     :align: center
@@ -28,24 +28,25 @@ Credentials
    :file: tables/pods.csv
    :width: 80%
    :header-rows: 1
+   :align: center
 
 Lab access
 ----------
-Launch the **Implementing and Troubleshooting Networks Using Cisco ThousandEyes** course.
+``Launch`` the **Implementing and Troubleshooting Networks Using Cisco ThousandEyes** course.
 
 .. image:: images/the-lab-enteit.png
     :align: center
 
 Lab settings
 -------------
-Add an email address under settings and save the settings. 
+Add an email address under **Settings** and ``Save Settings``. 
 
 .. image:: images/the-lab-email.png
     :align: center
 
 Lab listing
 -----------
-Navigate to “Lab Listing” and pick which lab you wish to start.
+Navigate to **Lab Listing** and pick which lab you wish to start.
 
 .. image:: images/the-lab-list.png
     :align: center
