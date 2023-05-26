@@ -17,7 +17,7 @@ Go to `Cisco Digital Learning Library <https://ciscolivecyberops.certsite.net/>`
     Lab open all week! 
     Ask any questions on the “LTRXAR-1903: Implementing and Troubleshooting ThousandEyes” Webex room
 
-#. Credentials
+1. Credentials
 ==============
 ``Login`` with the POD credentials assigned.
 
@@ -30,21 +30,21 @@ Go to `Cisco Digital Learning Library <https://ciscolivecyberops.certsite.net/>`
    :header-rows: 1
    :align: center
 
-#. Lab - access
+2. Lab - access
 ===============
 ``Launch`` the **Implementing and Troubleshooting Networks Using Cisco ThousandEyes** course.
 
 .. image:: images/the-lab-enteit.png
     :align: center
 
-#. Lab - settings
+3. Lab - settings
 =================
 Add an email address under **Settings** and ``Save Settings``. 
 
 .. image:: images/the-lab-email.png
     :align: center
 
-#. Lab - list
+4. Lab - list
 =============
 Navigate to **Lab Listing** and pick which lab you wish to start.
 
