@@ -31,7 +31,7 @@ If you do not have access to your email you can access the lab environment by at
 .. image:: images/the-lab-spinup-3b.png
     :align: center
 
-And try to **Reserve** again, go to `2. Lab - reserve <https://ciscolive.descubre.pe/LTRXAR-1903/thelablaunch/index.html#lab-reserve/>`__ 
+And try to **Reserve** again, go to `2. Lab - reserve <https://ciscolive.descubre.pe/LTRXAR-1903/thelablaunch/index.html#lab-reserve>`__ 
 
 4. Lab - go to
 ==============
