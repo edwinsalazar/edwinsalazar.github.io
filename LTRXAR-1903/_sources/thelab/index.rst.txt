@@ -1,6 +1,6 @@
-########
-The Lab!
-########
+##########################
+The Lab! - Getting Started
+##########################
 
 This lab includes access to Cisco Digital Learning Library. 
 All five sections are intended to be executed following the instructions in that enviroment.
