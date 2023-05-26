@@ -2,7 +2,25 @@
 The Lab!
 ########
 
-This document is intended for use by attendees of the Cisco Live 2023 who are taking LTRXAR-1903 - Implementing and Troubleshooting ThousandEyes
+This lab includes access to Cisco Digital Learning Library. 
+All five sections are intended to be executed following the instructions in that enviroment.
+
+Go to `Cisco Digital Learning Library <https://ciscolivecyberops.certsite.net/>`__ 
+
+.. image:: images/the-lab-login-1.png
+    :width: 50%
+    :align: center
+
+
+PODs
+----
+Log in with the POD credentials assigned.
+
+.. csv-table::
+   :file: tables/pods.csv
+   :width: 80%
+   :header-rows: 1
+
 
 Prerequisites
 -------------
@@ -15,7 +33,5 @@ Learning Objectives
 -------------------
 
 During this lab, you will get 
-
-
 
 
