@@ -5,23 +5,48 @@ The Lab! - Launching
 .. tip::
    The estimated time to Spin Up each Lab is  **5 Minutes**.
 
-1. Lab - Select
+1. Lab - select
 ===============
 Select the **Lab** you wan to spin-up and ``Launch``.
 
 .. image:: images/the-lab-spinup-1.png
     :align: center
 
-2. Lab - Reserve
+2. Lab - reserve
 ================
 ``Reserve a Lab`` and ``Spin-Up this Lab!``.
 
 .. image:: images/the-lab-spinup-2.png
     :align: center
 
-3. Lab - Wait
-================
-**Wait 5 - 10 minutes for the lab to spin-up**, and **Link to lab environment**
+3. Lab - wait and start 
+=======================
+**Wait** 5 - 10 minutes for the lab to spin-up, and **Link to lab environment**
 
-.. image:: images/the-lab-spinup-3.png
+.. image:: images/the-lab-spinup-3a.png
     :align: center
+
+If you do not have access to your email you can access the lab environment by attempting to spin-up the lab again: ``Launch``
+
+.. image:: images/the-lab-spinup-3b.png
+    :align: center
+
+And try to **Reserve** again, go to `2. Lab - reserve <https://ciscolive.descubre.pe/LTRXAR-1903/thelablaunch/index.html#lab-reserve/>`__ 
+
+4. Lab - go to
+==============
+Finally, ``Go to the Lab``
+
+.. image:: images/the-lab-spinup-4.png
+    :align: center
+
+5. Lab - ending
+===============
+
+End your session once you complete a lab. ``End Session`` then ``Exit``.
+
+.. image:: images/the-lab-spinup-5.png
+    :align: center
+
+.. tip::
+   You cannot spin-up another lab until you end any running lab. You can now spin-up another lab.
