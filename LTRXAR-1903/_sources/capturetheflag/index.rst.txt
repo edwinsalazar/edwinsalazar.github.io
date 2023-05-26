@@ -40,7 +40,7 @@ Select one mission.
 
 4. Read mission
 ===============
-Select the mission description.
+Read the mission description.
 
 .. image:: images/ctf-4.png
     :align: center
