@@ -8,6 +8,7 @@ LTRXAR-1903 - Implementing and Troubleshooting ThousandEyes
 .. image:: images/LTRXAR-1903.png
    :align: center
 
+Session deck. You can download here :download:`LTRXAR-1903 <deck/LTRXAR-1903.pdf>`.
 
 .. toctree::
    :maxdepth: 4
