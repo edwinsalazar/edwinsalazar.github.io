@@ -5,6 +5,9 @@ The Lab!
 This lab includes access to Cisco Digital Learning Library. 
 All five sections are intended to be executed following the instructions in that enviroment.
 
+.. image:: images/the-lab-5-sections.png
+    :align: center
+
 Go to `Cisco Digital Learning Library <https://ciscolivecyberops.certsite.net/>`__ 
 
 .. image:: images/the-lab-login-1.png
