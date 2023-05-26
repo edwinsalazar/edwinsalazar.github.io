@@ -2,7 +2,7 @@
 Bonus - Capture the Flag
 #########################
 
-This Bonus section provides access to **ThousandEyes Capture the Flag**.
+This Bonus section provides access to **ThousandEyes Capture the Flag**. 
 All CTF missions are intended to be executed following the instructions in that enviroment.
 
 Go to `ThousandEyes Capture the Flag <https://thousandeyes-en.ciscoctf.io/user/event/join?e=8UP621&key=b31e0baf-3294-4c19-83f4-d3b35656cd2b/>`__ 
