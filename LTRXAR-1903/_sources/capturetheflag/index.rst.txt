@@ -44,7 +44,7 @@ Read the mission description.
     :align: center
 
 4. Tasks
-=================
+========
 Complete tasks per mission.
 
 .. image:: images/ctf-4.png
