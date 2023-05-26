@@ -31,23 +31,21 @@ Clic on ``Sign Up``
 .. image:: images/ctf-2b.png
     :align: center
 
-3. Select mission
-=================
+3. Missions
+===========
 Select one mission.
 
-.. image:: images/ctf-3.png
+.. image:: images/ctf-3a.png
     :align: center
 
-4. Read mission
-===============
 Read the mission description.
 
-.. image:: images/ctf-4.png
+.. image:: images/ctf-3b.png
     :align: center
 
-4. Complete tasks
+4. Tasks
 =================
-Complete the tasks
+Complete tasks per mission.
 
-.. image:: images/ctf-5.png
+.. image:: images/ctf-4.png
     :align: center
