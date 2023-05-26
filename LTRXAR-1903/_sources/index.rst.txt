@@ -5,7 +5,7 @@ LTRXAR-1903 - Implementing and Troubleshooting ThousandEyes
 .. image:: images/LTRXAR-1903.png
    :align: center
 
-Session deck. You can download here :download:`LTRXAR-1903 <deck/LTRXAR-1903.pdf>`.
+You can download the LTRXAR-1903 session deck :download:`here <deck/LTRXAR-1903.pdf>`.
 
 .. toctree::
    :maxdepth: 5
@@ -16,4 +16,3 @@ Session deck. You can download here :download:`LTRXAR-1903 <deck/LTRXAR-1903.pdf
    integrationwithdnac/index
    dashboardsanalysis/index
    capturetheflag/index
-

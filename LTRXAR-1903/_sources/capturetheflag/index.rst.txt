@@ -2,20 +2,52 @@
 Bonus - Capture the Flag
 #########################
 
-This document is intended for use by attendees of the Cisco Live 2023 who are taking LTRXAR-1903 - Implementing and Troubleshooting ThousandEyes
+This Bonus section provides access to **ThousandEyes Capture the Flag** 
+All CTF missions are intended to be executed following the instructions in that enviroment.
 
-Prerequisites
--------------
+Go to `ThousandEyes Capture the Flag <https://thousandeyes-en.ciscoctf.io/user/event/join?e=8UP621&key=b31e0baf-3294-4c19-83f4-d3b35656cd2b/>`__ 
 
-- Prerequisite 1
-- Prerequisite 2
-- Prerequisite 3
+.. image:: images/ctf.png
+    :align: center
 
-Learning Objectives
--------------------
+.. tip:: 
+    Missions open all week! 
+    Ask any questions on the “LTRXAR-1903: Implementing and Troubleshooting ThousandEyes” Webex room
 
-During this lab, you will get 
+1. Sign Up
+==========
+Clic on ``Sign Up``
 
+.. image:: images/ctf-1.png
+    :align: center
 
+2. Register
+===========
+``Register Account`` and **Activate Account**
 
+.. image:: images/ctf-2a.png
+    :align: center
 
+.. image:: images/ctf-2b.png
+    :align: center
+
+3. Select mission
+=================
+Select one mission.
+
+.. image:: images/ctf-3.png
+    :align: center
+
+4. Read mission
+===============
+Select the mission description.
+
+.. image:: images/ctf-4.png
+    :align: center
+
+4. Complete tasks
+=================
+Complete the tasks
+
+.. image:: images/ctf-5.png
+    :align: center
