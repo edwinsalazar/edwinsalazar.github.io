@@ -8,10 +8,11 @@ LTRXAR-1903 - Implementing and Troubleshooting ThousandEyes
 Session deck. You can download here :download:`LTRXAR-1903 <deck/LTRXAR-1903.pdf>`.
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 5
    :caption: Table of Contents:
 
    thelab/index
+   thelabspinup/index
    dashboardsanalysis/index
    capturetheflag/index
    integrationwithdnac/index
