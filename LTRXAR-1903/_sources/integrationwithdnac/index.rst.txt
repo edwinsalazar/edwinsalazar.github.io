@@ -9,7 +9,6 @@ Prerequisites
 
 - Prerequisite 1
 - Prerequisite 2
-- Prerequisite 3
 
 Learning Objectives
 -------------------

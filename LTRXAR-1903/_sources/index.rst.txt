@@ -13,6 +13,7 @@ Session deck. You can download here :download:`LTRXAR-1903 <deck/LTRXAR-1903.pdf
 
    thelab/index
    thelablaunch/index
+   integrationwithdnac/index
    dashboardsanalysis/index
    capturetheflag/index
-   integrationwithdnac/index
+
