@@ -4,55 +4,63 @@ Bonus - Dashboards Analysis
 
 In this Bonus section we will review and discuss about ThousandEyes Snapshots 
 
+
 Webex RTP Stream
-----------------
-Go to `Webex RTP Stream <https://aimdhehwxr.share.thousandeyes.com/>`__ 
+================
+Go to `Webex RTP Stream <https://aimdhehwxr.share.thousandeyes.com/>`__  snapshot.
 
 .. image:: images/snapshot-1.png
     :align: center
 
+
 Office 365 Performance Blips
-----------------------------
-Go to `Office 365 Performance Blips	<https://wvgru.share.thousandeyes.com/>`__ 
+============================
+Go to `Office 365 Performance Blips	<https://wvgru.share.thousandeyes.com/>`__ snapshot.
 
 .. image:: images/snapshot-2.png
     :align: center
 
-Poor Wi-Fi Performance Disrupts User Experience
-------------------------------------------------
 
-Go to `Poor Wi-Fi Performance Disrupts User Experience <https://tspng.share.thousandeyes.com/>`__ 
+Poor Wi-Fi Performance Disrupts User Experience
+===============================================
+
+Go to `Poor Wi-Fi Performance Disrupts User Experience <https://tspng.share.thousandeyes.com/>`__ snapshot.
 
 .. image:: images/snapshot-3.png
     :align: center
 
-Low Throughput 
---------------
 
-Go to `Low Throughput <https://ogwpi.share.thousandeyes.com/>`__ 
+Low Throughput 
+==============
+
+Go to `Low Throughput <https://ogwpi.share.thousandeyes.com/>`__ snapshot.
 
 .. image:: images/snapshot-4.png
     :align: center
 
-Microsoft Teams Chat 
---------------------
 
-Go to `Microsoft Teams Chat <https://eltlvb.share.thousandeyes.com/>`__ 
+Microsoft Teams Chat 
+====================
+
+Go to `Microsoft Teams Chat <https://eltlvb.share.thousandeyes.com/>`__ snapshot.
 
 .. image:: images/snapshot-5.png
     :align: center
 
+
 Microsoft Teams Edge Node Unavailable 
--------------------------------------
-Go to `Microsoft Teams Edge Node Unavailable <https://dbgpposm.share.thousandeyes.com/>`__ 
+=====================================
+
+Go to `Microsoft Teams Edge Node Unavailable <https://dbgpposm.share.thousandeyes.com/>`__ snapshot.
 
 .. image:: images/snapshot-6.png
     :align: center
 
-Zoom Cloud
-----------
 
-Go to `Zoom Cloud <https://aozefzcoho.share.thousandeyes.com/>`__ 
+Zoom Cloud
+==========
+
+Go to `Zoom Cloud <https://aozefzcoho.share.thousandeyes.com/>`__ snapshot.
 
 .. image:: images/snapshot-7.png
     :align: center
