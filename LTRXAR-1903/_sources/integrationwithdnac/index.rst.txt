@@ -1,6 +1,6 @@
-####################################
-Bonus - Integration with Cisco DNAC
-####################################
+#########################################
+Bonus - Integration with Cisco DNA Center
+#########################################
 
 This document is intended for use by attendees of the Cisco Live 2023
 
@@ -8,14 +8,8 @@ Prerequisites
 -------------
 
 - Prerequisite 1
-- Prerequisite 2
 
 Learning Objectives
 -------------------
 
 During this lab, you will get 
-
-
-
-
-
