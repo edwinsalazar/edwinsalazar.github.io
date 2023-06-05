@@ -24,7 +24,7 @@ Go to `Cisco Digital Learning Library <https://ciscolivecyberops.certsite.net/>`
 .. image:: images/the-lab-login-2.png
     :align: center
 
- .. csv-table::
+.. csv-table::
    :file: tables/pods.csv
    :width: 80%
    :header-rows: 1
