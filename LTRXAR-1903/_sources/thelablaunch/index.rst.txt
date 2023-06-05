@@ -5,7 +5,7 @@ The Lab! - Launching
 .. tip::
    The estimated time to Spin Up each Lab is  **5 Minutes**.
 
-1. Lab – Choose Lab
+1. Lab - Choose Lab
 ===================
 Select the **Lab** you wan to spin-up and ``Launch``.
 
@@ -19,7 +19,7 @@ Select the **Lab** you wan to spin-up and ``Launch``.
 .. image:: images/the-lab-spinup-2.png
     :align: center
 
-3. Lab – Spin Up
+3. Lab - Spin Up
 =================
 Once scheduled, refresh the page.   
 Keep selecting this until you see the following:
@@ -27,13 +27,12 @@ Keep selecting this until you see the following:
 .. image:: images/the-lab-spinup-3.png
     :align: center
 
-4. Launching
-============
+4. Lab - Launching
+==================
 Finally, ``Go to the Lab``
 
 .. image:: images/the-lab-spinup-4.png
     :align: center
-
 
 5. Lab - End or Changing Lab
 ============================
