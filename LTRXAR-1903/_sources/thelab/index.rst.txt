@@ -19,10 +19,7 @@ Go to `Cisco Digital Learning Library <https://ciscolivecyberops.certsite.net/>`
 
 1. Credentials
 ==============
-``Login`` with the POD credentials assigned.
-
-.. image:: images/the-lab-login-2.png
-    :align: center
+``Login`` with the user and password assigned based on your seat.
 
 .. csv-table::
    :file: tables/pods.csv
@@ -30,7 +27,7 @@ Go to `Cisco Digital Learning Library <https://ciscolivecyberops.certsite.net/>`
    :header-rows: 1
    :align: center
 
-.. image:: images/the-lab-pods.png
+.. image:: images/the-lab-login-2.png
     :align: center
 
 .. tip:: 
@@ -38,6 +35,9 @@ Go to `Cisco Digital Learning Library <https://ciscolivecyberops.certsite.net/>`
     Pod Identifier  ≠  login number        
     eg. cl1903-1 | Pod 16
  
+.. image:: images/the-lab-pods.png
+    :align: center
+
 
 
 2. Lab - access
