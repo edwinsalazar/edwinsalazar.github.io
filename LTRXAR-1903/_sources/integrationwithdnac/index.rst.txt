@@ -4,12 +4,4 @@ Bonus - Integration with Cisco DNA Center
 
 This document is intended for use by attendees of the Cisco Live 2023
 
-Prerequisites
--------------
-
-- Prerequisite 1
-
-Learning Objectives
--------------------
-
-During this lab, you will get 
+You can download the dCloud Lab Guide :download:`here <docs/LTRXAR1903-DNAC-TE-labguide.pdf>`.
