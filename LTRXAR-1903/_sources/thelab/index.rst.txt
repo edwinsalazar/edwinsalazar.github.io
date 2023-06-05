@@ -26,7 +26,7 @@ Go to `Cisco Digital Learning Library <https://ciscolivecyberops.certsite.net/>`
 
  .. csv-table::
    :file: tables/pods.csv
-   :width: 100%
+   :width: 80%
    :header-rows: 1
    :align: center
 
