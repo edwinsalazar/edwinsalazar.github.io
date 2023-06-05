@@ -14,7 +14,7 @@ Go to `Cisco Digital Learning Library <https://ciscolivecyberops.certsite.net/>`
     :align: center
 
 .. tip:: 
-    Lab open all week! 
+    Lab open all week!   
     Ask any questions on the “LTRXAR-1903: Implementing and Troubleshooting ThousandEyes” Webex room
 
 1. Credentials
@@ -31,8 +31,8 @@ Go to `Cisco Digital Learning Library <https://ciscolivecyberops.certsite.net/>`
     :align: center
 
 .. tip:: 
-    Remember!        
-    Pod Identifier  ≠  login number        
+    Remember!       |  
+    Pod Identifier  ≠  login number     |    
     eg. cl1903-1 | Pod 16
  
 .. image:: images/the-lab-pods.png
