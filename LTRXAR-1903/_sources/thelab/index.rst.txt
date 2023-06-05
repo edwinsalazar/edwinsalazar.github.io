@@ -24,11 +24,21 @@ Go to `Cisco Digital Learning Library <https://ciscolivecyberops.certsite.net/>`
 .. image:: images/the-lab-login-2.png
     :align: center
 
-.. csv-table::
+ .. csv-table::
    :file: tables/pods.csv
-   :width: 80%
+   :width: 100%
    :header-rows: 1
    :align: center
+
+.. image:: images/the-lab-pods.png
+    :align: center
+
+.. tip:: 
+    Remember!        
+    Pod Identifier  ≠  login number        
+    eg. cl1903-1 | Pod 16
+ 
+
 
 2. Lab - access
 ===============
